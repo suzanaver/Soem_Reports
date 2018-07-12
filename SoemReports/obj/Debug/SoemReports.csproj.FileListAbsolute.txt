@@ -1,0 +1,22 @@
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\SoemReports.exe.config
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\SoemReports.exe
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\SoemReports.pdb
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\Ftp.dll
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\Oracle.DataAccess.dll
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\renci.sshnet.dll
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\System.Net.FtpClient.dll
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\Ftp.xml
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\bin\Debug\System.Net.FtpClient.xml
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\obj\Debug\SoemReports.exe
+C:\Users\suzanna.vershinin\Desktop\DOT NET\SoemReports\SoemReports\obj\Debug\SoemReports.pdb
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\SoemReports.exe.config
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\obj\Debug\SoemReports.exe
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\obj\Debug\SoemReports.pdb
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\SoemReports.exe
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\SoemReports.pdb
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\Ftp.dll
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\Oracle.DataAccess.dll
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\System.Net.FtpClient.dll
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\Ftp.xml
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\bin\Debug\System.Net.FtpClient.xml
+C:\Users\suzanna.vershinin\Desktop\SoemReports\SoemReports\obj\Debug\SoemReports.csprojResolveAssemblyReference.cache
